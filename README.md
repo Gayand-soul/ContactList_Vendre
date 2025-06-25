@@ -16,7 +16,9 @@ TypeScript 5
 GitHub Pages(Hosting)
 
 Compile and Hot-Reload for Development: npm run dev
+
 Build for Production: npm run build
+
 Deploy to GitHub Pages: npm run deploy
 
 Author: Gaya Andersson, 25 June 2025
